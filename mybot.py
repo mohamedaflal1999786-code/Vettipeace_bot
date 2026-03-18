@@ -65,7 +65,7 @@ import io
 import os
 
 # Use environment variable for token (Railway)
-TOKEN = os.environ.get("TOKEN")
+TOKEN = os.environ.get("8266575451:AAEo0TIRfGu4xxe14IhewejTec1VCdcxBy8")
 
 bad_words = [
     "sex","porn","xxx","nude","fuck","ass","bitch","cunt","dick",
